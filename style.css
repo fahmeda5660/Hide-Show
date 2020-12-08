@@ -1,0 +1,36 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background: red;
+    /* display: none; */
+}
+.box_2{
+    height: 100px;
+    width: 100px;
+    background: rgb(121, 29, 196);
+    /* display: none; */
+}
+.box_3{
+    height: 100px;
+    width: 100px;
+    background: rgb(121, 29, 196);
+    position: absolute;
+    /* display: none; */
+}
+.hi{
+    display: none;
+    padding-top: 40px;
+}
+.bye{
+    display: none;
+    padding-top: 40px;
+}
+button{
+    color: rgb(241, 247, 241) !important;
+    background: #ee3118;
+    border: none;
+}
+.pad{
+    margin-top: 100px;
+}
+
